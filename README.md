@@ -6,6 +6,6 @@
   </a>
 </div>
 
-![Language wise time spent since May 6, 2021](https://github-readme-stats.vercel.app/api/wakatime?username=@prinonbhowmik&v=2&layout=compact)
+![Language wise time spent since May 6, 2021](https://github-readme-stats.vercel.app/api/wakatime?username=@prinon_bhowmik&v=2&layout=compact)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prinonbhowmik&theme=blue-green)
